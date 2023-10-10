@@ -79,9 +79,10 @@
     Estatísticas do Github:
   </h2>
   
-  <div>
+ <!-- <div>
     <img id="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=birdenly&show_icons=true&layout=compact&theme=dark&locale=pt-br"/>
-  </div>
+  </div> -->
+  
 
   <div>
     <img id="langs" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdenly&layout=compact&theme=dark&locale=pt-br"/>
