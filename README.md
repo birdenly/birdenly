@@ -9,7 +9,7 @@
 <br/>
 
 <p>
-  Atualmente estudo na Universidade Federal do Rio Grande do Norte (UFRN) e ajudo no projeto <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> pelo aprendizado e diversão fazendo <i>handlers</i>.
+  Atualmente estudo na Universidade Federal do Rio Grande do Norte (UFRN) e ajudo no projeto <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> pelo aprendizado e diversão fazendo <a href="https://hub.splitscreen.me/user/rRycxSn253ZCjQy5C"><i>handlers</i></a>.
 </p>
 
 <h2>Experiência</h2>
