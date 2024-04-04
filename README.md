@@ -1,9 +1,9 @@
 <div>
 <h1>
-  Olá, sou João
+  Olá, sou João Marinho
 </h1>
 <p>
-  Aprendendo a desenvolver.
+  Getting better.
 </p>
 
 <br/>
