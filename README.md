@@ -9,7 +9,7 @@
 <br/>
 
 <p>
-  Atualmente estudo na Universidade Federal do Rio Grande do Norte (UFRN) e ajudo no projeto <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> pelo aprendizado e diversão fazendo <a href="https://github.com/birdenly/NC-handlers"><i>handlers</i></a> e dando suporte.
+  Atualmente estudo na Universidade Federal do Rio Grande do Norte (UFRN) e ajudo no projeto <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> pelo aprendizado e diversão fazendo <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a> e dando suporte.
 </p>
 
 <h2>Experiência</h2>
