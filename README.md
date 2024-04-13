@@ -42,6 +42,12 @@
         <p>CSS</p>
       </li>
       <li>
+        <p>JavaScript</p>
+      </li>
+      <li>
+        <p>Flutter</p>
+      </li>
+      <li>
         <p>Git/GitHub</p>
       </li>
     </ul>
