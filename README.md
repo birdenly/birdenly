@@ -68,11 +68,6 @@
     </li>
     <li>
       <p>
-      Ênfase: Engenharia de Software
-      </p>
-    </li>
-    <li>
-      <p>
       Em andamento
       </p>
     </li>
