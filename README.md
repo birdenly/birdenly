@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7UCJ8P)
 <div>
 <h1>
   Olá, sou João Marinho
