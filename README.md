@@ -41,6 +41,12 @@
         <p>Flutter</p>
       </li>
       <li>
+        <p>SQL</p>
+      </li>
+      <li>
+        <p>JS</p>
+      </li>
+      <li>
         <p>Git/GitHub</p>
       </li>
     </ul>
