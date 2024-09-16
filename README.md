@@ -44,9 +44,6 @@
         <p>SQL</p>
       </li>
       <li>
-        <p>JS</p>
-      </li>
-      <li>
         <p>Git/GitHub</p>
       </li>
     </ul>
