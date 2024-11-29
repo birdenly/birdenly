@@ -1,6 +1,6 @@
 <div>
 <h1>
-  Olá, sou João M
+  Olá, sou João M.
 </h1>
 <p>
   Getting better.
