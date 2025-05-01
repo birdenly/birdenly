@@ -1,6 +1,6 @@
 <div>
 <h1>
-  Olá, sou João M.
+  Olá, Bem vindo!
 </h1>
 <p>
   Getting better.
@@ -9,7 +9,7 @@
 <br/>
 
 <p>
-  Atualmente estudo na Universidade Federal do Rio Grande do Norte (UFRN) e ajudo no projeto open source <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> pelo aprendizado e diversão fazendo <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a> e dando suporte ao mesmo.
+  Atualmente estudo na Universidade Federal do Rio Grande do Norte (UFRN) e ajudo no projeto open source <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> fazendo <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a> e dando suporte ao mesmo.
 </p>
   <div>
     <h2>
@@ -17,13 +17,10 @@
     </h2>
     <ul>
       <li>
-        <p>Python</p>
+        <p>Python (for data science)</p>
       </li>
       <li>
-        <p>Java</p>
-      </li>
-      <li>
-        <p>C</p>
+        <p>Java (backend spring)</p>
       </li>
       <li>
         <p>C++</p>
@@ -42,9 +39,6 @@
       </li>
       <li>
         <p>SQL</p>
-      </li>
-      <li>
-        <p>Git/GitHub</p>
       </li>
     </ul>
   </div>
