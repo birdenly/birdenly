@@ -17,7 +17,7 @@
     </h2>
     <ul>
       <li>
-        <p>Python (for data science)</p>
+        <p>Python (Data Science, Machine Learning, automation and a little of some other stuff)</p>
       </li>
       <li>
         <p>Java (backend spring)</p>
