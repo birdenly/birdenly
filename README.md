@@ -62,12 +62,6 @@
 
 
 <div>
-  <h2>
-    Github Stats:
-  </h2>
-  
-
-  <div>
-    <img id="langs" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdenly&layout=compact&theme=dark&locale=en"/>
-  </div>
+<h2>GitHub Streak</h2>
+<img src="https://streak-stats.demolab.com?user=birdenly&theme=dark&locale=en" alt="GitHub Streak"/>
 </div>
