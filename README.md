@@ -1,26 +1,22 @@
 <div>
 <h1>
-  Olá, Bem vindo!
+  Welcome!
 </h1>
-<p>
-  Getting better.
-</p>
-
 <br/>
 
 <p>
-  Atualmente estudo na Universidade Federal do Rio Grande do Norte (UFRN) e ajudo no projeto open source <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> fazendo <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a> e dando suporte ao mesmo.
+  I currently study at the Federal University of Rio Grande do Norte (UFRN), work as Data Scientist, create some random stuff with python from time to time, and contribute to the open source project <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> by creating <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a> and providing support to the project.
 </p>
   <div>
     <h2>
-      Tecnologias:
+      Technologies:
     </h2>
     <ul>
       <li>
-        <p>Python (Data Science, Machine Learning, automation and a little of some other stuff)</p>
+        <p>Python (Data Science, Machine Learning, automation, and more)</p>
       </li>
       <li>
-        <p>Java (backend spring)</p>
+        <p>Java (backend, Spring)</p>
       </li>
       <li>
         <p>C++</p>
@@ -45,7 +41,7 @@
 </div>
 
 <div>
-<h2>Educação</h2>
+<h2>Education</h2>
 </div>
 <div>
 <div>
@@ -53,12 +49,12 @@
   <ul>
     <li>
       <p>
-      Bacharelado: Tecnologia da Informação
+      Undergraduate: Information Technology
       </p>
     </li>
     <li>
       <p>
-      Em andamento
+      In progress
       </p>
     </li>
   </ul>
@@ -67,15 +63,11 @@
 
 <div>
   <h2>
-    Estatísticas do Github:
+    Github Stats:
   </h2>
-  
- <!-- <div>
-    <img id="stats" alt="stats" src="https://github-readme-stats.vercel.app/api?username=birdenly&show_icons=true&layout=compact&theme=dark&locale=pt-br"/>
-  </div> -->
   
 
   <div>
-    <img id="langs" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdenly&layout=compact&theme=dark&locale=pt-br"/>
+    <img id="langs" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdenly&layout=compact&theme=dark&locale=en"/>
   </div>
 </div>
