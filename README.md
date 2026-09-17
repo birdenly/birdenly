@@ -1,67 +1,67 @@
 <div>
 <h1>
-  Welcome!
+  👋 Welcome!
 </h1>
 <br/>
 
 <p>
-  I currently study at the Federal University of Rio Grande do Norte (UFRN), work as Data Scientist, create some random stuff with python from time to time, and contribute to the open source project <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> by creating <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a> and providing support to the project.
+  Graduate in Information Technology from Brazil. Here you will find Python data/AI projects, automation, game mods and random experiments. I also contrubute to the open-source project <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> with <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a>, thats probably the way you found this page.
 </p>
   <div>
     <h2>
-      Technologies:
+      🛠️ Technologies:
     </h2>
     <ul>
       <li>
-        <p>Python (Data Science, Machine Learning, automation, and more)</p>
+        <p><b>Python:</b> Data Science, Machine Learning, automation, and more</p>
       </li>
       <li>
-        <p>Java (backend, Spring)</p>
+        <p><b>Java:</b> Backend development with Spring</p>
       </li>
       <li>
-        <p>C++</p>
+        <p><b>C++</b></p>
       </li>
       <li>
-        <p>HTML</p>
+        <p><b>C#</b></p>
       </li>
       <li>
-        <p>CSS</p>
+        <p><b>Web:</b> HTML, CSS, JavaScript</p>
       </li>
       <li>
-        <p>JavaScript</p>
+        <p><b>Mobile:</b> Flutter</p>
       </li>
       <li>
-        <p>Flutter</p>
-      </li>
-      <li>
-        <p>SQL</p>
+        <p><b>SQL</b></p>
       </li>
     </ul>
   </div>
 </div>
 
 <div>
-<h2>Education</h2>
+<h2>🎓 Education</h2>
 </div>
 <div>
 <div>
-  <h4>IMD / UFRN</h4>
   <ul>
     <li>
       <p>
-      Undergraduate: Information Technology
+        Graduate in Information Technology
       </p>
     </li>
     <li>
       <p>
-      In progress
+        Undergraduate Minor in Data Science
+      </p>
+    </li>
+    <li>
+      <p>
+        Undergraduate Minor in AI
       </p>
     </li>
   </ul>
 </div>
 
-
 <div>
-<h2>GitHub Streak</h2>
+<h2>🔥 GitHub Streak</h2>
 <img src="https://streak-stats.demolab.com?user=birdenly&theme=dark&locale=en" alt="GitHub Streak"/>
 </div>
