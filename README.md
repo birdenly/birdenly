@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  Graduate in Information Technology from Brazil. Here you will find Python data/AI projects, automation, game mods and random experiments. I also contrubute to the open-source project <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> with <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a>, thats probably the way you found this page.
+  Graduate in Information Technology from Brazil. Here you will find Python data Science/ML/AI projects, automation, game mods and random experiments. I also contrubute to the open-source project <a href="https://nucleus-coop.github.io/">Nucleus Co-op</a> with <a href="https://github.com/birdenly/NC-handlers"><i>scripts</i></a>, thats probably the way you found this page.
 </p>
   <div>
     <h2>
