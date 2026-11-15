@@ -55,7 +55,7 @@
     </li>
     <li>
       <p>
-        Undergraduate Minor in AI
+        Undergraduate Minor in ML/AI
       </p>
     </li>
   </ul>
